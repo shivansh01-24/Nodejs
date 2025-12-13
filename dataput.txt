@@ -1,0 +1,1 @@
+{"details":{"username":"nav","email":"nav@gmail.com"}}
